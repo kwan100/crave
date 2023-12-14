@@ -1,0 +1,6 @@
+.sidebar {
+  position: absolute;
+  float: left;
+  width: 25%;
+  background-color: lightblue;
+}
